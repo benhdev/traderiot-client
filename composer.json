@@ -1,0 +1,15 @@
+{
+    "name": "traderiot/client",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Traderiot\\Client\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benhdev"
+        }
+    ],
+    "require": {}
+}
